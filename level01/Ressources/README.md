@@ -5,7 +5,7 @@ Il est vide et ne contient aucun fichier sortant de l'ordinaire. On se dirige do
 On remarque facilement dans le fichier `etc/passwd` une chaîne de caractère en tant que mot de passe pour le flag01 :  
 `flag01:42hDRfypTqqnw:3001:3001::/home/flag/flag01:/bin/bash`. 
 
-Après une petite recherche des différents moyen de casser un mot de passe nous tombons sur `John The Ripper (JTR pour les intimes)`  
+Après une petite recherche des différents moyen de casser un mot de passe nous tombons sur `John The Ripper (JtR pour les intimes)`  
 `john` étant aussi le nom du fichier dans lequel nous avons eu un indice dans le level00.
 
 
