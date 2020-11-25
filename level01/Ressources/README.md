@@ -14,7 +14,7 @@ Il nous suffit donc de créer un fichier comme suit :
 flag01:42hDRfypTqqnw
 ```
 et de lancer john, ce qui donne le mot de passe suivant :  
-![JtR_result](assets/JtR_result.png)
+![JtR_result](../../assets/JtR_result.png)
 
 On se connecte ensuite a l'utilisateur flag01 :
 ```
