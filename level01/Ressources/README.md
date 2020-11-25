@@ -16,7 +16,7 @@ flag01:42hDRfypTqqnw
 et de lancer john, ce qui donne le mot de passe suivant :  
 ![JtR_result](../../assets/JtR_result.png)
 
-On se connecte ensuite a l'utilisateur flag01 :
+On se connecte ensuite à l'utilisateur flag01 :
 ```
 level01@SnowCrash:~$ su flag01
 Password:abcdefg
