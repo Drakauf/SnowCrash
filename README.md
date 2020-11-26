@@ -1,3 +1,5 @@
+![snowcrash](assets/SnowCrash.png)
+
 <h1 align="center">
 SnowCrash 
 </h1>
