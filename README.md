@@ -21,6 +21,8 @@ SnowCrash
 
  * [Level05](level05/Ressources/README.md): cron
 
+ * [Level06](level06/Ressources/README.md): php
+
 ----
 <p align="right">
 Credits <a href="https://github.com/Drakauf">shthevak</a>
