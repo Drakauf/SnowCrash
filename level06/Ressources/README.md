@@ -1,6 +1,6 @@
 ```sh
 level05@SnowCrash:/$ su level06
-Password:
+Password:viuaaale9huek52boumoomioc
 level06@SnowCrash:~$ ls
 level06  level06.php
 level06@SnowCrash:~$ cat level06.php
